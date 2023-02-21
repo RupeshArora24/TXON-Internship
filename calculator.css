@@ -1,0 +1,41 @@
+.b{
+  height: 650px;
+  width: 500px;
+  background-color: black;  
+  border-radius: 5%;
+  position:relative;
+  left: 500px;
+  top:30px;
+  
+}
+
+.c{
+    height: 80px;
+    width: 440px;
+    background-color: blanchedalmond;
+    border: 5px ;
+    border-radius: 10px;
+    position: relative;
+    left: 30px;
+    top : 25px;
+}
+
+.one, .two, .three{
+
+    
+    background-color: darkorange;
+    position: relative;
+    top: 150px;
+    height: 50px;
+    width: 70px;
+    border-radius: 10%;
+        
+
+}
+
+.two{
+    left: 20px;
+}
+.three{
+    left: 40px;
+}
