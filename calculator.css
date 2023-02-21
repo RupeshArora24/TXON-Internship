@@ -1,6 +1,6 @@
 .b{
-  height: 650px;
-  width: 500px;
+  height: 490px;
+  width: 420px;
   background-color: black;  
   border-radius: 5%;
   position:relative;
@@ -11,7 +11,7 @@
 
 .c{
     height: 80px;
-    width: 440px;
+    width: 360px;
     background-color: blanchedalmond;
     border: 5px ;
     border-radius: 10px;
@@ -20,7 +20,7 @@
     top : 25px;
 }
 
-.one, .two, .three{
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .plus, .minus, .multiply, .devide{
 
     
     background-color: darkorange;
@@ -36,6 +36,67 @@
 .two{
     left: 20px;
 }
-.three{
+.three {
     left: 40px;
+}
+
+
+.four ,.five, .six{
+    top: 170px;
+}
+.five{
+    left: 20px;
+}
+
+.six{
+    left: 40px;
+}
+
+
+
+.seven, .eight, .nine{
+
+    top: 190px; 
+}
+
+.eight{
+    left: 20px;
+}
+.nine{
+    left: 40px;
+}
+
+.zero{
+    
+    
+    position: relative;
+    top: 210px;
+    border-radius: 13%;
+    background-color: darkorange;
+
+}
+
+.clear{
+    height: 50px;
+    width: 70px;
+    background-color: darkorange;
+    top: 210px;
+    left: 40px;
+    border-radius: 10%;
+    position: relative;
+}
+
+
+.plus, .minus, .multiply, .devide{
+    left: 60px;
+}
+
+.minus{
+    top :170px
+}
+.multiply{
+    top :190px
+}
+.devide{
+    top :210px
 }
